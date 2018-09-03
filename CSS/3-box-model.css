@@ -1,0 +1,38 @@
+*{
+    font-family: Helvetica, sans-serif;
+    color: green;
+}
+
+header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 10px solid black;
+    margin-bottom: 30px;
+}
+
+main{
+    margin-top: 20px;
+    padding: 20px 50px 20px 50px;
+    border: 10px solid darkcyan;
+    margin-bottom: 30px;
+}
+
+footer{
+    margin-top: 20px;
+    padding: 20px 50px 20px 50px;
+    border: 10px solid black;
+}
+
+.bg_blue{
+    background-color: blue;
+}
+
+.text_white{
+    color: white;
+}
+
+.bg_yellow{
+    background-color: gold;
+}
