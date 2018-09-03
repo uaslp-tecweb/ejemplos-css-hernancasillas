@@ -1,0 +1,76 @@
+body{
+    background-color: darkblue;
+}
+
+h1{
+    font-family: Helvetica, Arial, sans-serif;
+    color: gold;
+}
+
+table{
+    background: white;
+    border-collapse: collapse;
+    border: 20px solid white;
+    width: 340px;
+    height: 340px;
+}
+
+td{
+    width: 100px;
+    height: 100px;
+}
+
+.top{
+    border-top: 0px solid black;
+    border-bottom: 2px solid black;
+}
+
+#topL{
+    border-right: 2px solid black;
+}
+
+#topM{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+#topR{
+    border-left: 2px solid black;
+}
+
+.mid{
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+
+#midL{
+    border-right: 2px solid black;
+}
+
+#midM{
+    border: 2px solid black;
+}
+
+#midR{
+    border-left: 2px solid black;
+}
+
+.bottom{
+    border-top: 2px solid black;
+}
+
+#botL{
+    border-right: 2px solid black;
+}
+
+#botM{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+#botR{
+    border-left: 2px solid black;
+}
+
+
+
