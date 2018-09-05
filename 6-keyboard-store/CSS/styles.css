@@ -2,6 +2,10 @@
     font-family: 'Slabo 27px', serif;
 }
 
+body{
+    border: 3px solid black;
+}
+
 #logo{
     margin: 20px auto;
     width: 300px;
