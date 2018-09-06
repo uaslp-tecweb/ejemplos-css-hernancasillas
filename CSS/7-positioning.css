@@ -1,0 +1,33 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.title{
+    background-color: #efefef;
+    padding: 10px;
+    position: absolute;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.quote{
+    float: right;
+    width: 350px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 20px 0;
+    font-size: 25px;
+    font-style: italic;
+    margin: 0 20px;
+}
+
+#p1{
+    margin-top: 70px;
+}
+
+#p2{
+    position: relative;
+    left: 30px;
+}
