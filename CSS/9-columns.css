@@ -1,0 +1,12 @@
+body{
+    font-family: Helvetica, Arial;
+}
+
+.list{
+    float: right;
+    height: 800px;
+}
+
+p{
+    width: 100%;
+}
