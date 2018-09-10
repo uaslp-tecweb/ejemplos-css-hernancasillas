@@ -1,0 +1,33 @@
+body{
+    font-family: Helvetica, Arial;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h1{
+    font-family: 'Helvetica', sans-serif;
+	font-size: 28px;
+	margin-left: 1.66%;
+	width: 30%;
+	border-bottom: 2px solid grey;
+	padding-bottom: 20px;
+}
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+p{
+    margin: 0 1.66%;
+}
+
+.imgs{
+    width: 100%;   
+}
+
+.valid{
+    width: auto;
+    
+}
