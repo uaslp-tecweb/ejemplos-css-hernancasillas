@@ -1,0 +1,21 @@
+/*Aplica este estilo en pantallas*/
+
+@media screen and (max-width: 600px){
+    body{
+        background-color: gold;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 800px){
+    body{
+        background-color: red;
+    }
+}
+
+/*Aplica este estilo cuando se imprima*/
+@media print{
+    body{
+        background-color: white;
+    }
+} 
+
